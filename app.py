@@ -24,7 +24,7 @@ st.set_page_config(page_title="Sales Prediction Dashboard | Amrit Seth", layout=
 
 st.title("📊 Advertising Sales Prediction Dashboard")
 st.markdown("""
-👨‍💻 **Developed by Amrit Seth**
+👨‍💻 **Developed by Amrit Seth & Akhilesh Yadav**
 
 This project demonstrates a complete **Machine Learning pipeline** where I analyze how advertising budgets
 affect product sales and build predictive models.
