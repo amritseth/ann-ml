@@ -452,4 +452,4 @@ if st.session_state.df is not None:
 # Footer
 # ------------------------------
 st.markdown("---")
-st.markdown("**👨‍💻 Developed by Amrit Seth** | Machine Learning Pipeline Demo")
+st.markdown("**👨‍💻 Developed by Amrit Seth & Akhilesh Yadav** | Machine Learning Pipeline Demo")
